@@ -1,0 +1,14 @@
+{
+  "name": "hello-menu",
+  "version": "1.0.0",
+  "description": "https://dev.to/starkfire/building-a-simple-rest-api-with-node-js-and-express-299j",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
